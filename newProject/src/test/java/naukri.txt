@@ -1,0 +1,4 @@
+browser Chrome
+URL https://www.naukri.com/mnjuser/profile
+UserName shivaraj8836@gmail.com
+Password Shiva@123
