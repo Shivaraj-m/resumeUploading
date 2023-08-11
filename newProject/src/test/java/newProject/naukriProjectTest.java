@@ -24,6 +24,6 @@ public class naukriProjectTest extends BaseClass {
 		File f = new File("C:\\Users\\Admin\\Downloads\\Resume\\Shivaraj_BE_ME_2020_QA.pdf") ;
 		String absPath = f.getAbsolutePath();
 		pg.getAttachFile().sendKeys(absPath);
-		Reporter.log("Resume is uploaded");
+		Reporter.log("Resume is uploaded",true);
 	}
 }
